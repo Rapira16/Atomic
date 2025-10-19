@@ -74,9 +74,6 @@ https://github.com/Rapira16/Atomic
 
 - Язык программирования: Kotlin
 - Платформа: Android
-- Архитектура: MVVM
-- Тестирование: JUnit
-- Документирование: KDoc
 
 ---
 
